@@ -1,1 +1,1 @@
-require 'plogger_permalinks'
+require 'blugg_permalinks'

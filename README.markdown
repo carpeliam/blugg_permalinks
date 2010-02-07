@@ -1,7 +1,7 @@
-PloggerPermalinks
+BluggPermalinks
 =================
 
-Install this plugin into a Plogger-enabled Rails app to get /articles/id-slug
+Install this plugin into a Blugg-enabled Rails app to get /articles/id-slug
 styled urls.
 
 
